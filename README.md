@@ -89,7 +89,7 @@ A **fine-tuned YOLOv8n model with contrastive learning (CL)** on the **Google La
 ### 📫 Connect with Me
 
 🌐 **Portfolio / Projects:** [github.com/Bisher-Alsaleh](https://github.com/Bisher-Alsaleh/Bisher-Alsaleh)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/bisher-alsaleh-739a89352/](https://www.linkedin.com/in/bisher-alsaleh-739a89352/)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/bisher-alsaleh-739a89352/](https://www.linkedin.com/in/bisher-alsaleh)  
 📧 **Email:** *bisher.alsaleh@outlook.com*
 
 ---
