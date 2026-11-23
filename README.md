@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bisher-alsaleh"><img src="https://img.shields.io/badge/LinkedIn-Bisher%20Alsaleh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Bisher.Alsaleh@outlook.com"><img src="https://img.shields.io/badge/Email-Bisher.Alsaleh%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="./Bisher_Alsaleh_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-2E7D32?style=flat" alt="CV"></a>
-  <a href="#publication"><img src="https://img.shields.io/badge/Publication-IJCAS%20(Springer)-8E24AA?style=flat" alt="Publication"></a>
+  <a href="https://link.springer.com/article/10.1007/s12555-026-00062-1"><img src="https://img.shields.io/badge/Publication-IJCAS%20(Springer)-8E24AA?style=flat" alt="Publication"></a>
 </p>
 
 ---
@@ -134,7 +134,7 @@ A hybrid controller for a differential-drive robot: Lyapunov control with gains 
 
 ## Publication
 
-**A. Deeb, B. Alsaleh, I. Hatem (2026).** *AI-Driven Control Strategy for DDWMR: Neural Network-Based Parameter Optimization and Real-Time Stabilization for Multi-Waypoint Navigation.* International Journal of Control, Automation and Systems (IJCAS), Springer.
+**A. Deeb, B. Alsaleh, I. Hatem (2026).** *AI-Driven Control Strategy for DDWMR: Neural Network-Based Parameter Optimization and Real-Time Stabilization for Multi-Waypoint Navigation.* International Journal of Control, Automation and Systems (IJCAS), Springer. [Read the paper on Springer Link](https://link.springer.com/article/10.1007/s12555-026-00062-1)
 
 ---
 
