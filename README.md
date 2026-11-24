@@ -116,9 +116,8 @@ A lightweight model for recognizing cultural landmarks, built to support heritag
 - Released modular training, evaluation, and inference scripts, with the dataset and weights on Kaggle.
 
 <div align="center">
-  <img src="./images/CulturalVision.png" width="55%" alt="CulturalVision: landmark classification with YOLOv8" />
+<img src="https://github.com/user-attachments/assets/eaac5f32-9e9a-4d03-9794-0e7ef7dc152a" width="45%" alt="CulturalVision results" />
 </div>
-
 ---
 
 ### [AI-Optimized LQR–Lyapunov Control System](https://github.com/B-A-IntelliBots/AI-optimized-LQR-Lyapunov-Control-System)
